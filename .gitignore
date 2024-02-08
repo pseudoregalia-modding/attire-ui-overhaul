@@ -12,3 +12,13 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Plugins\
+Engine\
+Binaries/
+Build/
+*_BuiltData.uasset
+Saved/
+Intermediate/
+DerivedDataCache/
+WindowsNoEditor/
+Windows/
