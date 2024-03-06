@@ -25,9 +25,9 @@ Windows/
 Content/Mods/*
 !Content/Mods/FoeHammers_AttireUIOverhaul_P
 Content/Meshes/Characters/*
-Content/Meshes/Characters/mainWeapon
-Content/Meshes/Characters/dreamLady_Min
-Content/Meshes/Characters/SK_dreamLady_Min_PhysicsAsset
-Content/Meshes/Characters/SK_dreamLady_Skeleton
+!Content/Meshes/Characters/mainWeapon
+!Content/Meshes/Characters/dreamLady_Min
+!Content/Meshes/Characters/SK_dreamLady_Min_PhysicsAsset
+!Content/Meshes/Characters/SK_dreamLady_Skeleton
 Content/Developers/
 Platforms/
