@@ -26,6 +26,7 @@ Content/Mods/*
 !Content/Mods/FoeHammers_AttireUIOverhaul_P
 Content/Meshes/Characters/*
 !Content/Meshes/Characters/mainWeapon.uasset
+!Content/Meshes/Characters/mainWeapon_Skeleton.uasset
 !Content/Meshes/Characters/dreamLady_Min.uasset
 !Content/Meshes/Characters/SK_dreamLady_Min_PhysicsAsset.uasset
 !Content/Meshes/Characters/SK_dreamLady_Skeleton.uasset
