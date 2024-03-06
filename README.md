@@ -11,7 +11,7 @@ This Mod reworks the default Attire UI to contain a live view of Sybil and the o
 
 <h2>WeaponMesh DataTable & TestActor Plugin</h2>
 
-The Plugin, which can be found [Here](https://www.nexusmods.com/pseudoregalia/mods/8?tab=files&file_id=151), lets weapon modelers visualize the changes made to the weapons transform for custom weapons that don't conform to the Dream Breaker's tonfa design.
+The Plugin, which can be found [Here](https://www.nexusmods.com/pseudoregalia/mods/8) under `WeaponMesh DataTable and TestActor` in Misc, lets weapon modelers visualize the changes made to the weapons transform for custom weapons that don't conform to the Dream Breaker's tonfa design.
 
 <h3>Installing the plugin</h3>
 
