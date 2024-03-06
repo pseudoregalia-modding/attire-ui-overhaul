@@ -23,9 +23,9 @@ To install the WeaponData Struct and TestActor into your project, I have packed 
 
 1. Copy the `WeaponMeshData` folder contained in the zip into the unreal engine plugins folder. By default, this is located here: `C:\Program Files\Epic Games\UE_5.1\Engine\Plugins`
 2. In your project you'll need to search for the plugin in the plugins page, enable it and then click restart when it says to.<br>
-![image](https://github.com/Foe-Hammer/Attire-UI-Overhaul/assets/102454745/0fe651bb-d52f-4ed5-b4f8-ccec93a82556)
+![image](https://github.com/pseudoregalia-modding/attire-ui-overhaul/assets/102454745/78c8c780-70b4-4e8c-9634-d13a7272b209)
 3. To make the struct and blueprint actor visible, on the file content browser in the right hand side, you can see a settings option. In that settings menu, select `Show Engine Content` and `Show Plugin Content`<br>
-![image](https://github.com/Foe-Hammer/Attire-UI-Overhaul/assets/102454745/7a5b20f3-de07-4c9a-acc2-8107c9470e3d)
+![image](https://github.com/pseudoregalia-modding/attire-ui-overhaul/assets/102454745/27779ca4-c205-4837-b026-7398134fa3ab)
 
 <h4>DataTable Instructions:</h4>
 
@@ -36,14 +36,13 @@ To install the WeaponData Struct and TestActor into your project, I have packed 
 <h4>TestActor Instructions:</h4>
 
 1. Search for `TestActor` in the content browser. This will be found in `Plugins/WeaponMeshData/Testing`. You should not make a copy of this and instead open the actor by double clicking.
-![image](https://github.com/Foe-Hammer/Attire-UI-Overhaul/assets/102454745/1f898c29-d63c-47f9-95a5-aadd24fc1758)
+![image](https://github.com/pseudoregalia-modding/attire-ui-overhaul/assets/102454745/6b878b84-5e19-43f2-9641-7abaad500e2b)
 2. When you first open the TestActor, you'll see the `EventGraph`, we want to be in the `Viewport` tab. You can see these tabs at the top of the window.
-![image](https://github.com/Foe-Hammer/Attire-UI-Overhaul/assets/102454745/da1748f3-cdc2-468e-b35c-4b56cbf36f92)
+![image](https://github.com/pseudoregalia-modding/attire-ui-overhaul/assets/102454745/6cc0e341-840f-42fe-a6a2-ba6153dcc524)
 3. Once you have opened the `Viewport` tab, you'll see two scenes, the Dreambreaker as it's seen in the UI, and Sybil holding the Dreambreaker with a light effect equivalent. These will be used to test your weapon and custom transforms.
 4. On the left you'll see a drop down labelled `VARIABLES`. In the variables tab you'll see four values, these are the only things you'll need to change. Everything else can be thought of as read only.
 5. When highlighting a variable, you'll see options to modify it on the right hand side of the window. The only thing you will need to touch is the `Default Value` drop down, here you can see the transform/mesh/boolean to change. Changes to these values will directly effect the center display.
-![image](https://github.com/Foe-Hammer/Attire-UI-Overhaul/assets/102454745/14aba682-3993-4773-90eb-6bb3f19bdbb0)
-
+![image](https://github.com/pseudoregalia-modding/attire-ui-overhaul/assets/102454745/845aacae-6774-4c63-87a6-610d8e6b682b)
 
 <h4>Variables:</h4>
 <pre>
