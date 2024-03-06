@@ -11,4 +11,4 @@
 *   Allows for dash color to be customized
 
 <h2 align="center" id="Subheading">Using the WeaponMesh DataTable & TestActor Plugin</h2>
-The Plugin, which can be found [Here](https://www.nexusmods.com/pseudoregalia/mods/8?tab=files&file_id=151), lets weapon modelers visualize the changes made to the weapons transform for custom weapons that don't conform to the Dream Breaker's tonfa design.
+The Plugin, which can be found [Here](https://www.nexusmods.com/pseudoregalia/mods/8?tab=files&file_id=151) , lets weapon modelers visualize the changes made to the weapons transform for custom weapons that don't conform to the Dream Breaker's tonfa design.
