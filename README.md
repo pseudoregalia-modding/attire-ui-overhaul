@@ -30,7 +30,7 @@ To install the WeaponData Struct and TestActor into your project, I have packed 
 <h4>DataTable Instructions:</h4>
 
 1. Search for `ST_WeaponData` in the content browser. This will be found in `Plugins/WeaponMeshData/Content/Data/Structs`. Copy that file into the following folder in your project: `Content/Data/Structs`. If this folder doesn't exist, you'll need to create it.
-2. Create A DataTable in the following directory: `Content/Data/DataTables`. (DataTables can be found in the miscellaneous tab, make sure it is a DataTable and NOT a Composite Table) If the required folder doesn't exist, you'll need to create it. You will need to name the DataTable with the naming convention DT_WeaponData_My_Custom_Weapon
+2. Create A DataTable in the following directory: `Content/Data/DataTables`. (DataTables can be found in the miscellaneous tab, make sure it is a DataTable and NOT a Composite Table) If the required folder doesn't exist, you'll need to create it. You will need to name the DataTable with the naming convention DT_WeaponData_My_Custom_Weapon (please rename the "My_Custom_Weapon" to a unique name, preferably the name of your mod/weapon so that other mods don't clash)
 3. Inside the Table, Add a new row and give that row a custom name, then add a name, link to your weapon mesh, and the two transform values are the important values. These will let you rotate and transform the weaponMesh and lightMesh in the UI and when thrown. For scaling, the default values for weaponMesh is 1,1,1 and the default for Light mesh is 0.25,0.25,0.4. To test these values without having to pak and run the game, you can use the TestActor to test out different transform values.
 
 <h4>TestActor Instructions:</h4>
